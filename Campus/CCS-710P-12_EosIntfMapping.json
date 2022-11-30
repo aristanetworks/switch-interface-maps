@@ -1,0 +1,19 @@
+{
+  "ManagementIntf": {}, 
+  "EthernetIntf": {
+    "eth0": "Ethernet1", 
+    "eth1": "Ethernet2", 
+    "eth2": "Ethernet3", 
+    "eth3": "Ethernet4", 
+    "eth4": "Ethernet5", 
+    "eth5": "Ethernet6", 
+    "eth6": "Ethernet7", 
+    "eth7": "Ethernet8", 
+    "eth8": "Ethernet9", 
+    "eth9": "Ethernet10", 
+    "eth10": "Ethernet11", 
+    "eth11": "Ethernet12", 
+    "eth12": "Ethernet13", 
+    "eth13": "Ethernet14"
+  }
+}

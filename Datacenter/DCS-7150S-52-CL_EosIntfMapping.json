@@ -1,0 +1,6 @@
+{
+  "ManagementIntf": {
+    "eth0": "Management1"
+  }, 
+  "EthernetIntf": {}
+}
