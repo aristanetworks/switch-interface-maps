@@ -1,0 +1,42 @@
+{
+  "ManagementIntf": {
+    "eth0": "Management1"
+  }, 
+  "EthernetIntf": {
+    "eth1": "Ethernet1/1", 
+    "eth2": "Ethernet2/1", 
+    "eth3": "Ethernet3/1", 
+    "eth4": "Ethernet3/5", 
+    "eth5": "Ethernet3/6", 
+    "eth6": "Ethernet3/7", 
+    "eth7": "Ethernet3/8", 
+    "eth8": "Ethernet4/1", 
+    "eth9": "Ethernet5/1", 
+    "eth10": "Ethernet5/5", 
+    "eth11": "Ethernet6/1", 
+    "eth12": "Ethernet7/1", 
+    "eth13": "Ethernet7/5", 
+    "eth14": "Ethernet8/1", 
+    "eth15": "Ethernet9/1", 
+    "eth16": "Ethernet9/2", 
+    "eth17": "Ethernet9/3", 
+    "eth18": "Ethernet9/4", 
+    "eth19": "Ethernet9/5", 
+    "eth20": "Ethernet10/1", 
+    "eth21": "Ethernet10/5", 
+    "eth22": "Ethernet11/1", 
+    "eth23": "Ethernet12/1", 
+    "eth24": "Ethernet13/1", 
+    "eth25": "Ethernet14/1", 
+    "eth26": "Ethernet15/1", 
+    "eth27": "Ethernet16/1", 
+    "eth28": "Ethernet17/1", 
+    "eth29": "Ethernet18/1", 
+    "eth30": "Ethernet19/1", 
+    "eth31": "Ethernet20/1", 
+    "eth32": "Ethernet21/1", 
+    "eth33": "Ethernet22/1", 
+    "eth34": "Ethernet23/1", 
+    "eth35": "Ethernet24/1"
+  }
+}
