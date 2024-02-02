@@ -35,8 +35,7 @@
     "eth30": "Ethernet30/1", 
     "eth31": "Ethernet31/1", 
     "eth32": "Ethernet32/1", 
-    "eth33": "Ethernet32/3", 
-    "eth34": "Ethernet33", 
-    "eth35": "Ethernet34"
+    "eth33": "Ethernet33", 
+    "eth34": "Ethernet34"
   }
 }
