@@ -52,16 +52,12 @@
     "eth47": "Ethernet47", 
     "eth48": "Ethernet48", 
     "eth49": "Ethernet49/1", 
-    "eth50": "Ethernet49/2", 
-    "eth51": "Ethernet49/3", 
-    "eth52": "Ethernet49/4", 
-    "eth53": "Ethernet50/1", 
-    "eth54": "Ethernet51/1", 
-    "eth55": "Ethernet51/2", 
-    "eth56": "Ethernet51/3", 
-    "eth57": "Ethernet53/1", 
-    "eth58": "Ethernet54/1", 
-    "eth59": "Ethernet55/1", 
-    "eth60": "Ethernet56/1"
+    "eth50": "Ethernet50/1", 
+    "eth51": "Ethernet51/1", 
+    "eth52": "Ethernet52/1", 
+    "eth53": "Ethernet53/1", 
+    "eth54": "Ethernet54/1", 
+    "eth55": "Ethernet55/1", 
+    "eth56": "Ethernet56/1"
   }
 }
