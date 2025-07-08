@@ -1,6 +1,6 @@
 {
     "ManagementIntf": {
-      "eth0": "Management1/1",
+      "eth0": "Management0",
       "eth1": "Managememt1/2"
     }, 
     "EthernetIntf": {
